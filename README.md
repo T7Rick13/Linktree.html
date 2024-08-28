@@ -14,3 +14,5 @@ git remote add origin https://github.com/T7Rick13/fittest.html.git
 git push -u origin main
 
 affiliated marketing linktree
+
+<!-- px in margin without portrait shifts reletive alignment, phone gap 8/28/2024 -->
