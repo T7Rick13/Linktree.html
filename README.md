@@ -20,5 +20,10 @@ affiliated marketing linktree
 9/16/2024
 <!-- Revision all -->
 /* DevOps update */
-// Install JavaScript for data collection and dynamic UX/UI //
+// Install JavaScript for data collection and dynamic UX/UI
+
+10/09/2024
+<!-- Added linktree landing page -->
+/* Initial commit */
+// static
 
